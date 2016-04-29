@@ -26,6 +26,7 @@ Lessgo 是一款Go 语言开发的简单、稳定、高效、灵活的 web开发
 - 核心框架：[lessgo](https://github.com/lessgo/lessgo)
 - 框架扩展：[lessgoext](https://github.com/lessgo/lessgoext)
 - 项目Demo：[demo](https://github.com/lessgo/lessgoext)
+- 框架文档  [document](https://github.com/lessgo/doc)
 
 #框架下载
 
@@ -100,4 +101,4 @@ Lessgo 项目采用商业应用友好的 [MIT](https://github.com/lessgo/lessgo/
  
 #项目联系
 * 官方QQ群：Go-Web 编程 42730308    [![Go-Web 编程群](http://pub.idqqimg.com/wpa/images/group.png)](http://jq.qq.com/?_wv=1027&k=fzi4p1)
-![Lessgo Server](https://github.com/lessgo/lessgo/raw/master/doc/server.jpg)
+![Lessgo Server](https://github.com/lessgo/lessgo/raw/master/doc/img/server.jpg)
