@@ -101,4 +101,4 @@ Lessgo 项目采用商业应用友好的 [MIT](https://github.com/lessgo/lessgo/
  
 #项目联系
 * 官方QQ群：Go-Web 编程 42730308    [![Go-Web 编程群](http://pub.idqqimg.com/wpa/images/group.png)](http://jq.qq.com/?_wv=1027&k=fzi4p1)
-![Lessgo Server](https://github.com/lessgo/lessgo/raw/master/doc/img/server.jpg)
+![Lessgo Server](../img/server.jpg)
