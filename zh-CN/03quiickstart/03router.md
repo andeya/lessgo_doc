@@ -66,6 +66,6 @@ name,description, modulePattern, 父模块, 状态(已启用、已禁用、配�
 - 7. 若开启简写模式，则应该能自动补全简写的url。
 
 #五、技术实现
-1. 核心架构采用echo2二次开发；
-2. 数据库模块采用xorm；
+1. 核心架构采用httprouter二次开发；
+2. 数据库模块采用xorm／gorm；
 

@@ -4,15 +4,16 @@ Lessgo 是一款Go 语言开发的简单、稳定、高效、灵活的 web开发
 
 # 目录
 
-- [综述](Introduction.md)
-- [安装部署](Install.md)
-- [开始Lessgo之旅](Develop01.md)
+- [综述](01Intro/Introduction.md)
+- [安装部署](02install/Install.md)
+- [开始Lessgo之旅](03quiickstart/01start.md)
 - [系统配置项]( )
-  - [App.config](Develop02-1.md)
-  - [DB.config](Develop02-2.md)
-- [运行时路由](Develop03.md)
+  - [App.config](03quiickstart/02.1config.md)
+  - [DB.config](03quiickstart/02.2dbconfig.md)
+- [运行时路由](03quiickstart/03router.md)
 - [带描述Handle]( )
 - [基于xorm的model开发]( )
+- [基于gorm的model开发]( )
 - [中间件开发]( )
 - [Session]( )
 - [多数据库连接]( )
@@ -28,6 +29,7 @@ Lessgo 是一款Go 语言开发的简单、稳定、高效、灵活的 web开发
   - [SQLMAP引擎]( )
   - [帐号权限模块]( )
 - [相关参考](.md)
-    - [echo v2]()
-    - [xorm]()
-
+    - [httprouter](https://github.com/julienschmidt/httprouter)
+    - [gorm](https://github.com/jinzhu/gorm)
+    - [xorm](https://github.com/go-xorm/xorm)
+    - [jwt-go](https://github.com/dgrijalva/jwt-go)
