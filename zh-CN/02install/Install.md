@@ -1,15 +1,15 @@
 #框架下载
 - 下载框架源码与框架扩展源码
 ```sh
-go get -u github.com/lessgo/lessgo
-go get -u github.com/lessgo/lessgoext
+go get -u github.com/henrylee2cn/lessgo
+go get -u github.com/henrylee2cn/lessgoext
 ```
 - 下载第三方依赖包，解压至 GOPATH/src 目录下 [[点击下载 ZIP]](https://github.com/lessgo/dependency/archive/master.zip)
 
 #安装部署工具
 编译并安装部署工具到%GOBIN%
 ```sh
-cd %GOPATH%/src/github.com/lessgo/lessgoext/lessgo
+cd %GOPATH%/src/github.com/henrylee2cn/lessgoext/lessgo
 go install
 ```
 #创建项目
