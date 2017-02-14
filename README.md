@@ -4,13 +4,13 @@ Lessgo 是一款Go 语言开发的简单、稳定、高效、灵活的 web开发
 
 # 目录
 
-- [综述](01Intro/Introduction.md)
-- [安装部署](02install/Install.md)
-- [开始Lessgo之旅](03quiickstart/01start.md)
-- [系统配置项]( )
-  - [App.config](03quiickstart/02.1config.md)
-  - [DB.config](03quiickstart/02.2dbconfig.md)
-- [运行时路由](03quiickstart/03router.md)
+- [综述](zh-CN/01Intro/Introduction.md)
+- [安装部署](zh-CN/02install/Install.md)
+- [开始Lessgo之旅](zh-CN/03quiickstart/01start.md)
+- [系统配置项](zh-CN/03quiickstart)
+  - [App.config](zh-CN/03quiickstart/02.1config.md)
+  - [DB.config](zh-CN/03quiickstart/02.2dbconfig.md)
+- [运行时路由](zh-CN/03quiickstart/03router.md)
 - [带描述Handle]( )
 - [基于xorm的model开发]( )
 - [基于gorm的model开发]( )
